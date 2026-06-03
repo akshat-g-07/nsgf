@@ -1,0 +1,78 @@
+{
+  "DETAILS": {
+    "name": "NSG Foundation",
+    "intro": "we do crazy stuff"
+  },
+  "HOME": {
+    "title": "परदुःखे दुःखित्वम्",
+    "intro": "Feeling pain in the suffering of others",
+    "about-title": "About NSG Foundation",
+    "about-details": "Navodayans Star Global Foundation is a humanitarian trust founded by the alumni of Jawahar Navodaya School, dedicated to serving society through compassion and action. We work to uplift underprivileged communities through medical camps, educational support, free tuition classes, youth sports motivation, anti-alcohol awareness drives, and support for poor families through free marriages. Our mission is to bring hope, dignity, and opportunities to every life we touch.",
+    "impact-title": "Our Work & Commitment",
+    "impact-details": "We are proud to serve society through meaningful initiatives such as:",
+    "impact-points": [
+      {
+        "title": "Medical Camps in Rural Areas",
+        "detail": "We organise free medical camps in villages to provide health check-ups, medicines, consultations, and awareness about preventive healthcare. We believe that healthcare is a basic right, not a privilege."
+      },
+      {
+        "title": "Anti-Alcohol Awareness Drives",
+        "detail": "Alcohol addiction destroys families, health, and futures. Through counselling sessions, awareness campaigns, and community engagement, we encourage people to choose healthier and more responsible lives."
+      },
+      {
+        "title": "Youth Motivation Through Sports",
+        "detail": "Sports have the power to transform lives. We motivate young people to participate in sports and physical activities that build confidence, discipline, leadership, and teamwork while keeping them away from harmful influences."
+      },
+      {
+        "title": "Educational Support & Scholarships",
+        "detail": "Many bright students are forced to give up their dreams because of financial difficulties. We provide scholarships, study materials, and educational assistance so that deserving students can continue their journey toward success."
+      },
+      {
+        "title": "Free Marriages for Underprivileged Families",
+        "detail": "Marriage is one of life’s most special moments, yet many poor families struggle to bear its expenses. We help conduct free marriages with dignity and respect, bringing joy and relief to families in need."
+      },
+      {
+        "title": "Free Education & Tuition Classes",
+        "detail": "Every child deserves the chance to learn. We arrange free tuition and learning support for children from weaker sections so they can build a better future through education."
+      }
+    ],
+    "blog-title": "Latest From Blog",
+    "blog-content": [
+      {
+        "title": "title 01",
+        "description": "description 01",
+        "image": "image 01",
+        "url": "url 01"
+      },
+      {
+        "title": "title 02",
+        "description": "description 02",
+        "image": "image 02",
+        "url": "url 02"
+      },
+      {
+        "title": "title 03",
+        "description": "description 03",
+        "image": "image 03",
+        "url": "url 03"
+      }
+    ]
+  },
+  "NAVBAR": {
+    "home": "Home",
+    "about": "About Us",
+    "members": "Members",
+    "contact": "Contact Us",
+    "donate": "Donate",
+    "blogs": "Blogs",
+    "events": "Events",
+    "gallery": "Gallery",
+    "sponsors": "Sponsors",
+    "subscribe": "Subscribe",
+    "footer-mission": "our-mission"
+  },
+  "ABOUT": {
+    "title": "About NSG Foundation",
+    "details": "Navodayans Star Global Foundation was founded with a heartfelt mission to serve humanity, uplift communities, and bring hope where it is needed the most. Created by the proud alumni of Jawahar Navodayan School, the foundation stands as a symbol of gratitude, responsibility, and the desire to give back to society.\n\nWe believe that success has true meaning only when it is shared with others. Inspired by the values we learned in school compassion, unity, discipline, and service we came together to create an organisation that could make a real difference in people’s lives. What began as a shared dream among former students has now grown into a movement dedicated to helping the underprivileged, empowering youth, and supporting families in need.\n\nAcross many villages and communities, especially in rural areas of Uttar Pradesh, countless people continue to face challenges such as lack of healthcare, limited educational opportunities, unemployment, addiction, and financial hardship. At Navodayans Star Global Foundation, we work with sincerity and dedication to address these issues through practical support and compassionate action."
+  }
+}
